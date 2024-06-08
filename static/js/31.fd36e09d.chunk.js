@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_admin_dashboard=self.webpackChunkreact_admin_dashboard||[]).push([[31],{7031:(t,e,a)=>{a.r(e),a.d(e,{default:()=>l});a(5043);var d=a(7285),i=a(4625),n=a(3805),s=a(7807),r=a(579);const l=()=>(0,r.jsx)(d.A,{plugins:[i.A,n.A,s.Ay],initialView:"dayGridMonth",events:[{title:"Event 1",date:"2024-06-01"},{title:"Event 2",date:"2024-06-02"}],dateClick:t=>alert("Date: "+t.dateStr)})}}]);
+//# sourceMappingURL=31.fd36e09d.chunk.js.map
